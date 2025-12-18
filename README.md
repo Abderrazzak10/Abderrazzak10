@@ -1,4 +1,8 @@
 # 💫 About Me:
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=200&section=header&text=Hi,%20I'm%20a%20Full%20Stack%20Developer&fontSize=50&animation=fadeIn" />
+</p>
+
 🔭 Currently working on scalable systems and AI integration in full stack development.  <br>🌱 Learning modern software design, intelligent agents, and machine learning.  <br>💬 Passionate about software engineering, coding quality, and building innovative projects.  <br>⚡ Fun fact: Always exploring new technologies and turning ideas into reality.
 
 
@@ -26,12 +30,9 @@
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)  
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abderrazzak10&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Abderrazzak10&theme=dark&hide_border=false&include_all_commits=true&count_private=false&hide=contribs,prs)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Abderrazzak10&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abderrazzak10&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Abderrazzak10&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
